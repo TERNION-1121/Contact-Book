@@ -1,0 +1,5 @@
+# Contact Book 
+# >> Add a new contact / Edit a previously existing contact / Show all the contacts / Delete a previously existing contact / View details of a contact
+>> New contact
+>>> Input ==> Name, Address, Phone number, Email Address.
+>>> Stores in a dictionary `contacts` => 
