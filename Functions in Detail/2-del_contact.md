@@ -10,8 +10,8 @@ Elsewise, an _indefinite while loop_ iterates, where it prints all the saved con
 
 ```py
 print("\n-------- Your Contacts --------")
-            for item in contacts: # prints all the contacts
-                print(f'> {item}')
+for item in contacts: # prints all the contacts
+     print(f'> {item}')
 ```
 
 <br> 
