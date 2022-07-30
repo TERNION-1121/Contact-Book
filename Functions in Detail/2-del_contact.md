@@ -1,4 +1,4 @@
-## `del_contact` 
+## `del_contact()` 
 
 The function first checks whether the **Global Variable `contacts`** is empty or not, if it is, it notifies the user to add a new contact and try again.
 
