@@ -51,7 +51,9 @@ Enter your choice:
 
 - [x] Contact-Book made functional for terminal-use.
 - [ ] Contact-Book made more functional by saving contacts externally.
-- [ ] Conact-Book equipped with **GUI**.
+- [ ] Conact-Book equipped with **GUI**
+
+<br>
 
 I had made this project for improving my programming skills (especially in Python). Completing this much of the project was just the 1st step towards the final completion. What I aspire to be the 2nd, and certainly the last step for this project is the implementation of SQL database using the `sqlite3` module.
 
@@ -63,12 +65,15 @@ I hope it'd get done soon ^_^
 ### How to Contribute?
 
 There are various ways you can contribute to the project!
-<p>
-- **Pull Requests: **
+
+- **Pull Requests:**
+ 
   Pull Requests regarding features that were previously non-existent; or that could be made better
 - **Raising Issues:**
+ 
   Found an Issue troubling you? Feel free to raise an issue regarding that and I, and the other contributers would definitely look into it.
 - **Contributions for the README.md file!**
+ 
   Can you help us making the README.md file look better, more beautiful, and functional? Go on! We'd be there for you with full coordination.
-</p>
+
 > The further detailed information regarding the various functions mentioned in the beginning would be added soon.
