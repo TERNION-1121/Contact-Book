@@ -3,20 +3,21 @@
  A virtual contact book in **Python** where users can add new contacts, and also view, edit, and delete them.
 
 Following are the main components of the program responsible for the whole functioning:
-- ***Global Variable `contacts`***
-   * `contacts` is the **global _dictionary_ variable**, used by every functionality given below.
 
-- `new_contact()`
+1. [`new_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/1-new_contact.md) <sup> « Click here to view the details </sup>
    * Function for **adding** a new contact to the contacts-list.
    
-- `del_contact()`
+2. [`del_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/2-del_contact.md) <sup> « Click here to view the details </sup>
    * Function for **deleting** a specific contact / deleting all the contacts at once.
    
-- `edit_contact()`
+3. [`edit_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/3-edit_contact().md) <sup> « Click here to view the details </sup>
    * Function for **updating** the details of a specific contact in the contact list.
    
-- `view_contact()`
+4. [`view_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/4-view_details.md) <sup> « Click here to view the details </sup>
    * Function for **viewing** the details of a specific contact in the contact list.
+ 
+- ***Global Variable `contacts`***
+   * `contacts` is the **global _dictionary_ variable**, used by every functionality given below.
    
  The above mentioned components constitute the main function `contactBook()`
  
