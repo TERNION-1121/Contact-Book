@@ -60,7 +60,7 @@ Enter your choice:
     - Open your terminal and write the command:- `pip install pyinstaller`. This will get `pyinstaller` installed in your machine in less than a minute's time.
  
 3. **Save your Python Script**
-    - Save your Python Script file by any name you wish (`<file_name>`), now open the Windows Powershell[^2] in the same directory as of the file's and write the command:- `pyinstaller --onfile <file_name>.py`. It'd take some time to get your executable file ready.
+    - Save your Python Script file by any name you wish (`<file_name>`), now open the Windows Powershell[^2] in the same directory as of the file's and write the command:- `pyinstaller --onefile <file_name>.py`. It'd take some time to get your executable file ready.
 
 4. **Open your Executable**
    - When it is done, open the newly made `dist` folder, and you would find your executable file for the program. An example of the file location can be:- `E:\Projects\Contact-Book\Contact-Book\dist`
@@ -106,5 +106,5 @@ There are various ways you can contribute to the project!
 
 [^1]: Check out this [article](https://datatofish.com/add-python-to-windows-path/) for more information.
 [^2]: Navigate to the Windows Powershell by hitting `Shift` + `Right click` in the directory. Check this [article](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/starting-windows-powershell?view=powershell-7.2) for more information.
-[^3]: Graphical User Interface; The final stage of development for this project would be integrating GUI using modules like [tkinkter](https://docs.python.org/3/library/tkinter.html).
+[^3]: Graphical User Interface; The final stage of development for this project would be integrating GUI using modules like [tkinter](https://docs.python.org/3/library/tkinter.html).
 [^4]: Structured Query Language is a standard language for storing, manipulating and retrieving data in databases. [*`sqlite3`*](https://docs.python.org/3/library/sqlite3.html) provides an SQL interface compliant with the DB-API 2.0 specification described by PEP 249.
