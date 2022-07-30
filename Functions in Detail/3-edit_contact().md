@@ -23,8 +23,8 @@ Further it asks the user to enter which contact's details should be printed *( i
 name_edit = input("\nEnter the name of the Contact you want to edit: ")
 
 if name_edit in contacts:
-print("-------- Contact Details --------")
-print(f"> {name_edit}")
+    print("-------- Contact Details --------")
+    print(f"> {name_edit}")
 for item in contacts[name_edit]:
      print(f"> {contacts[name_edit][item]}")
 ```
