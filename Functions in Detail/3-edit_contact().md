@@ -76,5 +76,5 @@ Finally it asks the user whether they want to edit another contact. If yes, the 
   
 If the contact name entered is not find in `contacts` it simple prints:
 ```
-The Contact name entered does not exit.
+The Contact name entered does not exist.
 ```
