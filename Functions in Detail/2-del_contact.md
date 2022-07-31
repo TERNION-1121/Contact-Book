@@ -37,3 +37,10 @@ Do you want to delete another contact (y/n) ?:
 ```
 
 Further it checks whether `contacts` is empty or not, if it is not, the whole process iterates again.
+
+<br>
+<hr>
+
+https://user-images.githubusercontent.com/97667653/182012472-8ee15c73-e6d2-4e4a-8afb-e35e8b48c282.mp4
+
+> A test example showing the execution of `del_contact()`
