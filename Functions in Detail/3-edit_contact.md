@@ -78,3 +78,11 @@ If the contact name entered is not find in `contacts` it simple prints:
 ```
 The Contact name entered does not exist.
 ```
+     
+<br>
+<hr>
+     
+https://user-images.githubusercontent.com/97667653/182012339-cbdcebe9-d636-433d-8ccb-d36d068f5a1f.mp4
+
+
+> A test example showing the execution of `view_details()`
