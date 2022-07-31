@@ -1,2 +1,4 @@
 # Ignore all the .txt files
 *.txt
+# Ignore all the .mp4 files
+*.mp4
