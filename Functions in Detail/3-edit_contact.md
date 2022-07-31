@@ -82,7 +82,8 @@ The Contact name entered does not exist.
 <br>
 <hr>
      
-https://user-images.githubusercontent.com/97667653/182012339-cbdcebe9-d636-433d-8ccb-d36d068f5a1f.mp4
 
 
-> A test example showing the execution of `view_details()`
+https://user-images.githubusercontent.com/97667653/182012372-4af7ff5e-8964-44bc-bf8e-b4270f10a978.mp4
+
+> A test example showing the execution of `edit_contact()`
