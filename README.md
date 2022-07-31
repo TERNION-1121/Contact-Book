@@ -13,7 +13,7 @@ Following are the main components of the program responsible for the whole funct
 3. [`edit_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/3-edit_contact().md) <sup> « Click here to view the details </sup>
    * Function for **updating** the details of a specific contact in the contact list.
    
-4. [`view_contact()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/4-view_details.md) <sup> « Click here to view the details </sup>
+4. [`view_details()`](https://github.com/TERNION-1121/Contact-Book/blob/main/Functions%20in%20Detail/4-view_details.md) <sup> « Click here to view the details </sup>
    * Function for **viewing** the details of a specific contact in the contact list.
  
 - ***Global Variable `contacts`***
@@ -43,8 +43,14 @@ Enter your choice:
  ```
  Do you want to open your Contact Book again (y/n) ?:
  ```
- 
+
  > The contacts are saved only during the program execution. After termination, the contacts are not saved externally.
+ 
+ <br>
+
+https://user-images.githubusercontent.com/97667653/182012253-8729f3f3-4ce2-4cba-a605-8ad030c78022.mp4
+
+> A test example showing the execution of `contactBook()`
  
  <br>
  
