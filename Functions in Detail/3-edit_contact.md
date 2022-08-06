@@ -78,12 +78,3 @@ If the contact name entered is not find in `contacts` it simple prints:
 ```
 The Contact name entered does not exist.
 ```
-     
-<br>
-<hr>
-     
-
-
-https://user-images.githubusercontent.com/97667653/182012372-4af7ff5e-8964-44bc-bf8e-b4270f10a978.mp4
-
-> A test example showing the execution of `edit_contact()`

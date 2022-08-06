@@ -40,11 +40,3 @@ Finally it asks the user whether they again wish to view the details of a contac
 ```
 Do you wish to view your contacts again (y/n) ?:
 ```
-<br>
-<hr>
-
-
-
-https://user-images.githubusercontent.com/97667653/182012432-2f741e6b-f4a6-4650-81cc-090601484de6.mp4
-
-> A test example showing the execution of `view_details()`
