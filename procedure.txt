@@ -1,0 +1,18 @@
+# Contact Book 
+# >> Add a new contact / Edit a previously existing contact / Show all the contacts / Delete a previously existing contact / View details of a contact
+>> New contact
+>>> Input ==> Name, Address, Phone number, Email Address.
+>>> Stores in a dictionary `contacts` => contacts[name] = details, where details =  details = {'address': address,
+                    										'phone' : phone,
+                    										'email' : email}
+>>> Repeats the loop until the user types anything except 'y'
+
+
+>> Delete a previously existing contact
+>>> Input ==> Name of the contact to be deleted
+>>> Deletes the key-value pair with the corresponding name if the name is found in contacts, else prints, "The Contact name entered does not exit."
+
+>> Edit a previously existing contact:
+>>> Input ==> Name of the contact to be edited
+>>>
+
